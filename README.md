@@ -6,8 +6,8 @@
   <tr>
     <td valign="top">
       <h3>Recent repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;28&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;39 – <a href='https://github.com/Legit-Ox/Expensa'>Expensa</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;856 – <a href='https://github.com/Legit-Ox/DeliMeals'>Deli-Meal</a></h6> 
+            <h6>⭐️ – <a href='https://github.com/Legit-Ox/Expensa'>Expensa</a></h6> 
+      <h6>⭐️ – <a href='https://github.com/Legit-Ox/DeliMeals'>Deli-Meal</a></h6> 
     </td>
 
      
