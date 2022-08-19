@@ -12,7 +12,13 @@
             <h6>⭐️ – <a href='https://github.com/Legit-Ox/Expensa'>Expensa</a></h6> 
       <h6>⭐️ – <a href='https://github.com/Legit-Ox/DeliMeals'>Deli-Meal</a></h6> 
     </td>
-
+  <td valign="top">
+      <h3>My stack: </h3>
+      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=python">Flutter</a> ( Knowledge--> High )</h6>
+      <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=c%23">Kotlin</a> ( Knowledge--> Medium )</h6>
+      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">React JS</a> ( Knowledge--> Low )</h6>
+      </td>
+  
      
   
 </table>
